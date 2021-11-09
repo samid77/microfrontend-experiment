@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 
+/container/node_modules
+/products/node_modules
+
 # misc
 .DS_Store
 .env.local
